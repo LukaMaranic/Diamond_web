@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 160" role="img" aria-labelledby="diamond-logo-title">
+  <title id="diamond-logo-title">Diamond</title>
+  <g stroke="#07141c" stroke-width="2.2" stroke-linejoin="round">
+    <path d="M160 20 183 24 204 37 217 56 221 80 216 102 201 121 181 134 158 138 136 133 116 121 102 101 98 78 104 57 119 39 139 26Z" fill="#5bb7c2"/>
+    <path d="M160 45 174 47 188 55 196 67 198 81 194 95 185 106 173 113 158 116 144 112 132 105 123 94 121 80 124 67 133 56 146 48Z" fill="#081823"/>
+
+    <path d="M160 20 183 24 174 47 160 45Z" fill="#73cdd0"/>
+    <path d="M183 24 204 37 188 55 174 47Z" fill="#4ea3b2"/>
+    <path d="M204 37 217 56 196 67 188 55Z" fill="#397f96"/>
+    <path d="M217 56 221 80 198 81 196 67Z" fill="#69c4c9"/>
+    <path d="M221 80 216 102 194 95 198 81Z" fill="#4ea3b2"/>
+    <path d="M216 102 201 121 185 106 194 95Z" fill="#397f96"/>
+    <path d="M201 121 181 134 173 113 185 106Z" fill="#73cdd0"/>
+    <path d="M181 134 158 138 158 116 173 113Z" fill="#4ea3b2"/>
+    <path d="M158 138 136 133 144 112 158 116Z" fill="#69c4c9"/>
+    <path d="M136 133 116 121 132 105 144 112Z" fill="#397f96"/>
+    <path d="M116 121 102 101 123 94 132 105Z" fill="#73cdd0"/>
+    <path d="M102 101 98 78 121 80 123 94Z" fill="#4ea3b2"/>
+    <path d="M98 78 104 57 124 67 121 80Z" fill="#69c4c9"/>
+    <path d="M104 57 119 39 133 56 124 67Z" fill="#397f96"/>
+    <path d="M119 39 139 26 146 48 133 56Z" fill="#73cdd0"/>
+    <path d="M139 26 160 20 160 45 146 48Z" fill="#4ea3b2"/>
+
+    <path d="m160 20-14 28m37-24-9 23m30-10-16 18m29 1-21 11m25 13-23 1m18 21-22-7m7 26-16-15m-4 28-8-21m-15 25v-22m-22 17 8-21m-28 9 16-16m-30-4 21-7m-25-16 23 2m-17-23 20 10m-5-28 14 17m6-30 7 22" fill="none"/>
+  </g>
+  <text
+    x="160"
+    y="90"
+    fill="#f8fafc"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="25"
+    font-weight="700"
+    letter-spacing="3.8"
+    text-anchor="middle"
+    textLength="166"
+    lengthAdjust="spacingAndGlyphs"
+  >DIAMOND</text>
+</svg>
